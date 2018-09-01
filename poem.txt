@@ -1,0 +1,63 @@
+?b=ff8800&c=f00f0f&a=Fcvcr%0ADrcms
+
+
+
+
+uproot the thistles
+pull the dandelions
+
+my itchy arm
+
+i want to show you something so neat
+i worked so hard on it
+
+sort the books
+
+wipe the table
+
+do you like it?
+
+how many unwashed cups are circulating right now?
+
+unclog the shower drain
+
+your friends are somewhere
+passing the time
+or solving some great mystery
+
+where do you want to go today?
+
+
+
+  <span id="text" onclick="resetAmount()"> 
+    uproot the thistles<br>
+    pull the dandelions<br>
+    <br>
+    my itchy arm<br>
+    <br>
+    i want to show you something so neat<br>
+    <br>
+    i worked so hard on it<br>
+    <br>
+    sort the books<br>
+    wipe the table<br>
+    <br>
+    do you like it?<br>
+    <br>
+    how many unwashed cups are circulating right now?<br>
+    <br>
+    unclog the shower drain<br>
+    <br>
+    your friends are somewhere<br>
+    passing the time<br>
+    or solving some great mystery<br>
+    <br>
+    where do you want to go today?
+  </span>
+
+
+
+
+uproot%20the%20thistles%0Apull%20the%20dandelions%0A%0Amy%20itchy%20arm%0Ai%20want%20to%20show%20you%20something%20so%20neat%0A%0Ai%20worked%20so%20hard%20on%20it%0A%0Asort%20the%20books%0Awipe%20the%20table%0A%0Ado%20you%20like%20it%3F%0A%0Acan%27t%20concentrate%0Alike%20so%20ADD%0A%0Ahow%20many%20unwashed%20cups%20are%20circulating%20right%20now%3F%0A%0Aunclog%20the%20shower%20drain%0A%0Ayour%20friends%20are%20somewhere%0Apassing%20the%20time%0Aor%20solving%20a%20great%20mystery%0A%0Awhere%20do%20you%20want%20to%20go%20today%3F
+
+dXByb290IHRoZSB0aGlzdGxlcw0KcHVsbCB0aGUgZGFuZGVsaW9ucw0KDQpteSBpdGNoeSBhcm0NCmkgd2FudCB0byBzaG93IHlvdSBzb21ldGhpbmcgc28gbmVhdA0KDQppIHdvcmtlZCBzbyBoYXJkIG9uIGl0DQoNCnNvcnQgdGhlIGJvb2tzDQp3aXBlIHRoZSB0YWJsZQ0KDQpkbyB5b3UgbGlrZSBpdD8NCg0KY2FuJ3QgY29uY2VudHJhdGUNCmxpa2Ugc28gQUREDQoNCmhvdyBtYW55IHVud2FzaGVkIGN1cHMgYXJlIGNpcmN1bGF0aW5nIHJpZ2h0IG5vdz8NCg0KdW5jbG9nIHRoZSBzaG93ZXIgZHJhaW4NCg0KeW91ciBmcmllbmRzIGFyZSBzb21ld2hlcmUNCnBhc3NpbmcgdGhlIHRpbWUNCm9yIHNvbHZpbmcgYSBncmVhdCBteXN0ZXJ5DQoNCndoZXJlIGRvIHlvdSB3YW50IHRvIGdvIHRvZGF5Pw==
